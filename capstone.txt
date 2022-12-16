@@ -1,0 +1,13 @@
+Mandatory things for making capstone....
+>>While making webpages by using HTML,CSS,Js the page should be simple & by your own way(not colourfull)..
+ie (proper alignment & no need to showcase everything in bright).
+>>for login page: 1) user table 
+                  2) Admin table
+             (*both tables should be separate)
+>>Admin page mainly consists of- Event, category, and Edit option (in Bold style).
+>>For every business requirement like (product ID) logic must be available.
+>>For database script is mandatory.
+>> Event relationship should be consider.
+>>Coupon & Event relationship sholud be mandatory.
+>>coupon dates are mandatory (starting to ending dates with events).
+>>
